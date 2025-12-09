@@ -43,7 +43,7 @@ namespace Tyuiu.NazarovAA.Sprint6.Task2.V16
 
         private void buttonInfo_NAA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 1 выполнил студент группы РППб 25-1 Назаров Артём Александрович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 2 выполнил студент группы РППб 25-1 Назаров Артём Александрович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
